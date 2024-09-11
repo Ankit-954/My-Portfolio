@@ -42,7 +42,7 @@ const About = () => {
                     <img src={code_icon} alt="" className="w-7 mt-3 dark:hidden"/>
                     <img src={code_icon_dark} alt="" className="w-7 mt-3 hidden dark:block"/>
 
-                    <h3 className="my-4 font-semibold text-gray-700 dark:text-white">Languages</h3>
+                    <h3 className="my-4 font-semibold text-gray-700 dark:text-white">Languages/Skills</h3>
                     <p className="text-gray-600 text-sm dark:text-white/80">HTML, CSS, JavaScript React Js, Node Js, MongoDb, SQL, C++, Java </p>
                 </li>
                 <li className="border-[0.5px] border-gray-400 rounded-xl p-6 cursor-pointer hover:bg-lightHover hover:-translate-y-1 duration-500 hover:shadow-black dark:border-white dark:hover:shadow-white dark:hover:bg-darkHover/50">
@@ -51,7 +51,7 @@ const About = () => {
                     <img src={edu_icon_dark} alt="" className="w-7 mt-3 hidden dark:block"/>
 
                     <h3 className="my-4 font-semibold text-gray-700 dark:text-white">Education</h3>
-                    <p className="text-gray-600 text-sm dark:text-white/80">B.Tech in Computer Science and Engineering </p>
+                    <p className="text-gray-600 text-sm dark:text-white/80">B.Tech in Computer Science and Engineering 2021 - 2025</p>
                 </li>
                 <li className="border-[0.5px] border-gray-400 rounded-xl p-6 cursor-pointer hover:bg-lightHover hover:-translate-y-1 duration-500 hover:shadow-black dark:border-white dark:hover:shadow-white dark:hover:bg-darkHover/50">
 
